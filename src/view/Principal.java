@@ -21,3 +21,5 @@ public class Principal {
         System.out.println(gerador.gerarSenha());
     }
 }
+
+// Feito por João Pedro Carvalho e Luis Felipe Silva de Oliveira
